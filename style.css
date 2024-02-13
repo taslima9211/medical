@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.btn{
+    background-color: #448CFA;
+    border-radius: 20px;
+}
+.hr-style{
+    width: 200px;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+.h{
+    width: 100px;
+    border: 2px solid ;
+    margin: 0 auto;
+}
+
+.services{
+    margin-bottom: 10px;
+    margin-top: 8px;
+}
+.button{
+    text-decoration: 5px solid blue;
+    border: 5%;
+    align-items: center;
+    justify-content: center;
+}
+.card-img{
+    width: 200px;
+    height: 100px;
+    margin:0 auto;
+}
+/* start footer */
+    .container1{
+        max-width: 1170px;
+       margin:  auto;
+       color: white;
+    }
+    /* .row{
+        display: flex;
+        flex-wrap: wrap;
+    } */
+    ul{
+        list-style:none;
+    }
+
+    .footer{
+        background-color: #448CFA;
+        padding: 70px 0;
+
+    }
+    .footer-call{
+        width: 25%;
+        padding: 0 10px;
+    }
+    .footer-call ul li a{
+        color: white;
+        text-decoration: none;
+        margin: 0 auto;
+        font-weight: 200;
+    }
+
+
+    .footer-call h4{
+        font-size: 2rem;
+        margin-bottom: 25px;
+        font-weight: 500;
+        position: relative;
+        justify-content: center;
+       
+    }
+    .card-link{
+        text-decoration: none;
+    }
+    .btn1{
+        border: 1px solid #448CFA;;
+        text-decoration: none;
+    }
+    .service-img{
+        width: 100px;
+        margin-bottom: 20px;
+        object-fit:content;
+        height:30%
+    }
+
+    .my-card{
+        box-shadow: 1px 1px 5px rgba(128, 128, 128, 0.619) ;
+        border-radius:10px;
+    }
+    .card{
+        border: none;
+    }
+    
+
+
